@@ -1,0 +1,25 @@
+{
+  "name": "meanstackrestfulapppractice",
+  "version": "1.0.0",
+  "description": "simple app for learning mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mosoc/MeanStackRestfulAppPractice.git"
+  },
+  "dependencies":
+  {
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "author": "Mosochin Colle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mosoc/MeanStackRestfulAppPractice/issues"
+  },
+  "homepage": "https://github.com/Mosoc/MeanStackRestfulAppPractice#readme"
+}
